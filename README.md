@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ekko-f
+- 👋 Hi, I’m @Terry-f
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
